@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	height: 100vh;
+}
+.top_half {
+	width:  100%;
+    height: 56.6%;
+    background-color: red;
+}
+
+.bottom_half {
+	width: 100%;
+	height: 44.1%;
+	background-color: blue;
+}
+.bg_image {
+	background-image: url("../../designs/assets/bg.jpg");
+
+}
